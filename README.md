@@ -14,6 +14,9 @@ This project uses the **ACDC (Automated Cardiac Diagnosis Challenge)** dataset.
 
 ## 📂 Dataset Directory Structure
 data/
+
 ├── train/
+
 ├── val/
+
 └── test/
